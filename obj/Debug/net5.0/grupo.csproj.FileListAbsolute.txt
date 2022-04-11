@@ -1,0 +1,16 @@
+C:\Users\notebook\grupo\bin\Debug\net5.0\grupo.exe
+C:\Users\notebook\grupo\bin\Debug\net5.0\grupo.deps.json
+C:\Users\notebook\grupo\bin\Debug\net5.0\grupo.runtimeconfig.json
+C:\Users\notebook\grupo\bin\Debug\net5.0\grupo.runtimeconfig.dev.json
+C:\Users\notebook\grupo\bin\Debug\net5.0\grupo.dll
+C:\Users\notebook\grupo\bin\Debug\net5.0\ref\grupo.dll
+C:\Users\notebook\grupo\bin\Debug\net5.0\grupo.pdb
+C:\Users\notebook\grupo\obj\Debug\net5.0\grupo.csproj.AssemblyReference.cache
+C:\Users\notebook\grupo\obj\Debug\net5.0\grupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notebook\grupo\obj\Debug\net5.0\grupo.AssemblyInfoInputs.cache
+C:\Users\notebook\grupo\obj\Debug\net5.0\grupo.AssemblyInfo.cs
+C:\Users\notebook\grupo\obj\Debug\net5.0\grupo.csproj.CoreCompileInputs.cache
+C:\Users\notebook\grupo\obj\Debug\net5.0\grupo.dll
+C:\Users\notebook\grupo\obj\Debug\net5.0\ref\grupo.dll
+C:\Users\notebook\grupo\obj\Debug\net5.0\grupo.pdb
+C:\Users\notebook\grupo\obj\Debug\net5.0\grupo.genruntimeconfig.cache
